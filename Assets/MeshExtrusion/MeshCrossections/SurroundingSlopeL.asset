@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 626978f13f0299b48b9b87f51524a79b, type: 3}
+  m_Name: SurroundingSlopeL
+  m_EditorClassIdentifier: 
+  vertices:
+  - point: {x: -10, y: 3}
+    normal: {x: 0.4472136, y: 0.8944272}
+    u: 0
+  - point: {x: -8, y: 2}
+    normal: {x: 0.4472136, y: 0.8944272}
+    u: 0
+  - point: {x: -8, y: 2}
+    normal: {x: 0.31622776, y: 0.94868326}
+    u: 0
+  - point: {x: -5, y: 1}
+    normal: {x: 0.31622776, y: 0.94868326}
+    u: 0
+  lines: 00000000010000000200000003000000
